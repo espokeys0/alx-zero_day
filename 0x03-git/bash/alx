@@ -1,4 +1,5 @@
-git merge --squash a
+git checkout b
+git merge a
 
 
 
